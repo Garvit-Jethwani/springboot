@@ -1,0 +1,11 @@
+FundId,FundName,FundType,StartDate,EndDate,Manager,Email,PhoneNumber
+1,Alpha Fund,Equity,01/01/2020,12/31/2025,John Doe,johndoe@example.com,1234567890
+2,Beta Fund,Bond,02/01/2019,01/31/2024,Jane Smith,janesmith@example.com,0987654321
+3,Gamma Fund,Money Market,03/01/2018,02/28/2023,James Brown,jamesbrown@example.com,1122334455
+4,Delta Fund,Index,04/01/2017,03/31/2022,Jessica Jones,jessicajones@example.com,2233445566
+5,Epsilon Fund,Commodity,05/01/2016,04/30/2021,Jack Johnson,jackjohnson@example.com,3344556677
+6,Zeta Fund,Real Estate,06/01/2015,05/31/2020,Jill Jackson,jilljackson@example.com,4455667788
+7,Eta Fund,Hybrid,07/01/2014,06/30/2019,Jacob Williams,jacobwilliams@example.com,5566778899
+8,Theta Fund,Sector,08/01/2013,07/31/2018,Julia Davis,juliadavis@example.com,6677889900
+9,Iota Fund,Balance,09/01/2012,08/31/2017,Joseph Wilson,josephwilson@example.com,7788990011
+10,Kappa Fund,Target Date,10/01/2011,09/30/2016,Joanna Miller,joannamiller@example.com,8899001122
